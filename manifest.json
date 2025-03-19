@@ -1,0 +1,7 @@
+{
+  "name": "AI Design Assistant",
+  "id": "ai-design-assistant",
+  "api": "figma",
+  "ui": "index.html",
+  "permissions": ["activeElement", "storage"]
+}
